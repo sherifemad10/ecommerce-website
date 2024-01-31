@@ -125,12 +125,12 @@ let oversize = document.getElementById("oversize");
 
 // let adidas = document.getElementById("adidas");
  function adidas14() {
-    window.location.href ="../prodect/ADIDASPRIMEBLUE.html"
+    window.location.href ="../prodect/addides1.html"
 };
 
 // let dell = document.getElementById("dell");
 function dell15() {
-    window.location.href ="../prodect/DELL.html"
+    window.location.href ="../prodect/dell.html"
 };
 
 // let tv = document.getElementById("tv");
@@ -145,7 +145,7 @@ function usb17() {
 
 // let sweatshirt2 = document.getElementById("sweatshirt2");
 function sweatshirt18() {
-    window.location.href ="../prodect/Sweatshirt1.html"
+    window.location.href ="../prodect/sweatshirt1.html"
 };
 
 // let american = document.getElementById("american");
@@ -160,7 +160,7 @@ function Oxford20() {
 
 // let Hoodie = document.getElementById("Hoodie");
 function Hoodie21() {
-    window.location.href ="../prodect/Hoodie.html"
+    window.location.href ="../prodect/hoodie.html"
 };
 
 
