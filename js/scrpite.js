@@ -53,114 +53,114 @@ logout.addEventListener("click", function () {
 let asus = document.getElementById("asus");
 
  function asuslabtop0() {
- window.location.href = "../prodect/asus.html"
+ window.location.href = "../asus.html"
 };
 
 let iphone = document.getElementById("iphone");
 
  function iphone1() {
-    window.location= "../prodect/iphone.html"
+    window.location= "../iphone.html"
 
  };
 
  let airpods = document.getElementById("airpods");
 
  function headphone2() {
-    window.location.href= "../prodect/headphone.html"
+    window.location.href= "../headphone.html"
 };
 
 function strike3() {
-    window.location.href= "../prodect/strike.html"
+    window.location.href= "../strike.html"
 };
 
 let sweatshirt = document.getElementById("sweatshirt");
  function sweatshirt4() {
-    window.location.href ="../prodect/sweatshirt.html"
+    window.location.href ="../sweatshirt.html"
 };
 
 let oversize = document.getElementById("oversize");
  function oversize5() {
-    window.location.href ="../prodect/overside.html"
+    window.location.href ="../overside.html"
 };
 
 // let polo = document.getElementById("polo");
  function polo6() {
-    window.location.href ="../prodect/polo.html"
+    window.location.href ="../polo.html"
 };
 
 // let woven = document.getElementById("woven");
  function woven7() {
-    window.location.href ="../prodect/woven.html"
+    window.location.href ="../woven.html"
 };
 
 // let longsleeve = document.getElementById("longsleeve");
  function longsleeve8() {
-    window.location.href ="../prodect/longsleeve.html"
+    window.location.href ="../longsleeve.html"
 };
 
 // let sole = document.getElementById("sole");
  function sole9() {
-    window.location.href ="../prodect/solesneakers.html"
+    window.location.href ="../solesneakers.html"
 };
 
 // let lace = document.getElementById("lace");
  function lace10() {
-    window.location.href ="../prodect/laceupshoes.html"
+    window.location.href ="../laceupshoes.html"
 };
 
 // let round = document.getElementById("round");
  function round11() {
-    window.location.href ="../prodect/roundsneaker.html"
+    window.location.href ="../roundsneaker.html"
 };
 
 // let gloves = document.getElementById("gloves");
  function gloves12() {
-    window.location.href ="../prodect/glovesforgym.html"
+    window.location.href ="../glovesforgym.html"
 };
 
 // let suit = document.getElementById("suit");
  function suit13() {
-    window.location.href ="../prodect/trainingsuit.html"
+    window.location.href ="../trainingsuit.html"
 };
 
 // let adidas = document.getElementById("adidas");
  function adidas14() {
-    window.location.href ="../prodect/addides1.html"
+    window.location.href ="../addides1.html"
 };
 
 // let dell = document.getElementById("dell");
 function dell15() {
-    window.location.href ="../prodect/dell.html"
+    window.location.href ="../dell.html"
 };
 
 // let tv = document.getElementById("tv");
 function tv16() {
-    window.location.href ="../prodect/unionairescreen.html"
+    window.location.href ="../unionairescreen.html"
 };
 
 // let usb = document.getElementById("usb");
 function usb17() {
-    window.location.href ="../prodect/cable.html"
+    window.location.href ="../cable.html"
 };
 
 // let sweatshirt2 = document.getElementById("sweatshirt2");
 function sweatshirt18() {
-    window.location.href ="../prodect/sweatshirt1.html"
+    window.location.href ="../sweatshirt1.html"
 };
 
 // let american = document.getElementById("american");
 function american19() {
-    window.location.href ="../prodect/sweatamerican.html"
+    window.location.href ="../sweatamerican.html"
 };
 
 // let Oxford = document.getElementById("Oxford");
 function Oxford20() {
-    window.location.href ="../prodect/oxford.html"
+    window.location.href ="../oxford.html"
 };
 
 // let Hoodie = document.getElementById("Hoodie");
 function Hoodie21() {
-    window.location.href ="../prodect/hoodie.html"
+    window.location.href ="../hoodie.html"
 };
 
 
